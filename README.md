@@ -1,0 +1,1 @@
+This is actually my second Git project (like the first one it's just to get familiar with Github and Git).
